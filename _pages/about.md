@@ -7,79 +7,40 @@ redirect_from:
   - /about.html
 ---
 
-<h1 align="center">Hi 👋, I'm Mhamed Essafri</h1>
+<img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-<h3 align="center">
-PhD student at the 
-<a href="https://www.irit.fr/departement/signaux-images/sc/">Signal & Communications team</a> 
-of the 
-<a href="https://www.irit.fr/">IRIT Laboratory</a>.
-</h3>
+## About
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=messafri&label=Profile%20views&color=0e75b6&style=flat"/>
-</p>
+I am a **PhD student in Applied Mathematics** supervised by  
+[Emmanuel Soubies](https://www.irit.fr/~Emmanuel.Soubies/) and  
+[Luca Calatroni](https://sites.google.com/view/lucacalatroni/home).  
+I am a member of the [Signal & Communications team](https://www.irit.fr/departement/signaux-images/sc/) at the [IRIT Laboratory](https://www.irit.fr/) in Toulouse, France.
 
-<img align="right" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-
-## 🔬 Research
-
-I am a PhD student working on **sparse optimization methods for machine learning and signal processing**.
-
-My research focuses on **ℓ₀-regularization problems with non-quadratic data terms**, with applications in:
-
-- Machine Learning
-- Signal Processing
-- Image Processing
-- Large-scale optimization
-
-Currently I am working on the project:
-
-🔗 **[Exact RelaxatiOns for Sparse and low-rank optImizatiON (EROSION)](https://www.irit.fr/~Emmanuel.Soubies/Projects/EROSION.html)**
+Before starting my PhD, I obtained a **European Master's Degree in Applied Mathematics** from **FST Limoges**, where I specialized in numerical optimization, statistical learning, reinforcement learning, large-scale optimization, and stochastic optimization.
 
 ---
 
-## 🎓 Education
+## Research
 
-Before starting my PhD, I obtained a  
+My research focuses on **sparse optimization methods for machine learning and signal processing**, with a particular emphasis on models involving **ℓ₀ regularization**.
 
-**European Master's Degree in Applied Mathematics**  
-from **FST Limoges**  
+This work is conducted within the project  
+**[Exact RelaxatiOns for Sparse and low-rank optImizatiON (EROSION)](https://www.irit.fr/~Emmanuel.Soubies/Projects/EROSION.html)**, where I investigate new **exact continuous relaxations** for sparse optimization problems. These approaches aim to make difficult combinatorial models more tractable while preserving their desirable sparsity properties.
 
-Specialization in:
+As part of this work, I also develop **regularization path methods for ℓ₀-regularized problems**, together with a **software package that will be released soon**.
 
-- Numerical Optimization
-- Statistical Learning
-- Reinforcement Learning
-- Optimization for Large-scale Data
-- Stochastic Optimization
-
-🔗 https://www.unilim.fr/acsyon/
+Applications of these methods arise in **machine learning, signal processing, and image processing**.
 
 ---
 
-## 🌐 Connect with me
+## Tools & Programming
 
-<a href="https://linkedin.com">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
-</a>
+My research involves scientific computing and optimization tools such as:
 
-<a href="https://github.com/messafri">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-</a>
-
----
-
-## 💻 Languages & Tools
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
 
 ---
 
-## 📊 GitHub Statistics
-
-<img src="https://github-readme-stats.vercel.app/api?username=messafri&show_icons=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=messafri&layout=compact"/>
+More information about my research, publications, teaching activities, and projects can be found in the sections of this website.
