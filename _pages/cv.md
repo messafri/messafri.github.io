@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 You can also download my CV as a PDF here:  
-[Download CV (PDF)](https://github.com/messafri/mhamed-essafri.github.io/files/CV_Mhamed-1.pdf)
+[Download CV (PDF)](/files/CV_Mhamed-1.pdf)
 
 Education
 ======
@@ -28,6 +28,7 @@ Work experience
 
 * **Internship**, IRIT, Toulouse, France (2023, 6-month M2 internship)  
   - Conducted research on sparse optimization methods for machine learning and signal/image processing applications
+
 Skills
 ======
 * **Languages:** Arabic (native), English (fluent), French (fluent)  
