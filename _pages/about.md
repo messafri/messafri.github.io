@@ -7,58 +7,74 @@ redirect_from:
   - /about.html
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; align-items: flex-start; gap: 30px; flex-wrap: wrap;">
 
-<div style="flex: 1; min-width: 250px;">
+<div style="flex: 1; min-width: 260px;">
 
 <h2>About</h2>
 
 <p>
-I am a <strong>PhD student in Applied Mathematics</strong> supervised by
-<a href="https://www.irit.fr/~Emmanuel.Soubies/">Emmanuel Soubies</a>
-and
+I am a <strong>PhD student in Applied Mathematics</strong> supervised by 
+<a href="https://www.irit.fr/~Emmanuel.Soubies/">Emmanuel Soubies</a> and 
 <a href="https://sites.google.com/view/lucacalatroni/home">Luca Calatroni</a>.
 </p>
 
 <p>
-I am a member of the <a href="https://www.irit.fr/departement/signaux-images/sc/">Signal & Communications team</a> at the <a href="https://www.irit.fr/">IRIT Laboratory</a> in Toulouse, France.
+I am a member of the <a href="https://www.irit.fr/departement/signaux-images/sc/">Signal & Communications team</a> at the 
+<a href="https://www.irit.fr/">IRIT Laboratory</a> (Toulouse, France).
 </p>
 
 <p>
-Before starting my PhD, I obtained a <strong>European Master's Degree in Applied Mathematics</strong> from <strong>FST Limoges</strong>, where I specialized in numerical optimization, statistical learning, reinforcement learning, large-scale optimization, and stochastic optimization.
+Prior to my PhD, I obtained a <strong>European Master's Degree in Applied Mathematics</strong> from <strong>FST Limoges</strong>, with a focus on numerical optimization, statistical learning, reinforcement learning, and large-scale stochastic optimization.
 </p>
 
 </div>
 
 <img 
-  width="260"
-  style="border-radius: 12px;"
+  width="240"
+  style="border-radius: 10px;"
   src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 />
 
 </div>
 
-## Research
+---
 
-My research focuses on **sparse optimization methods for machine learning and signal processing**, with a particular emphasis on models involving **ℓ₀ regularization**.
+<h2>Research</h2>
 
-This work is conducted within the project  
-**[Exact RelaxatiOns for Sparse and low-rank optImizatiON (EROSION)](https://www.irit.fr/~Emmanuel.Soubies/Projects/EROSION.html)**, where I investigate new **exact continuous relaxations** for sparse optimization problems. These approaches aim to make difficult combinatorial models more tractable while preserving their desirable sparsity properties.
+<p>
+My research focuses on <strong>sparse optimization methods</strong> for machine learning and signal processing, with particular emphasis on models involving <strong>ℓ₀ regularization</strong>.
+</p>
 
-As part of this work, I also develop **regularization path methods for ℓ₀-regularized problems**, together with a **software package that will be released soon**.
+<p>
+This work is conducted within the project 
+<strong><a href="https://www.irit.fr/~Emmanuel.Soubies/Projects/EROSION.html">EROSION (Exact RelaxatiOns for Sparse and low-rank optImizatiON)</a></strong>, where I develop new <strong>exact continuous relaxations</strong> for sparse optimization problems. These approaches aim to bridge the gap between combinatorial formulations and tractable continuous models while preserving sparsity-inducing properties.
+</p>
 
-Applications of these methods arise in **machine learning, signal processing, and image processing**.
+<p>
+In this context, I also design <strong>regularization path methods</strong> for ℓ₀-regularized problems, along with a dedicated <strong>software package</strong> to be released.
+</p>
+
+<p>
+Applications of this work include machine learning, signal processing, and image reconstruction.
+</p>
 
 ---
 
-## Tools & Programming
+<h2>Tools & Programming</h2>
 
-My research involves scientific computing and optimization tools such as:
+<p>
+My work relies on scientific computing and optimization tools:
+</p>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+<div style="display: flex; gap: 12px; align-items: center;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+</div>
 
 ---
 
-More information about my research, publications, teaching activities, and projects can be found in the sections of this website.
+<p>
+More information about my research, publications, teaching, and projects is available in the corresponding sections.
+</p>
