@@ -11,7 +11,7 @@ redirect_from:
 
 <div style="flex: 1; min-width: 250px;">
 
-## About
+<h2>About</h2>
 
 <p>
 I am a <strong>PhD student in Applied Mathematics</strong> supervised by
