@@ -7,18 +7,36 @@ redirect_from:
   - /about.html
 ---
 
-<img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+
+<div style="flex: 1; min-width: 250px;">
 
 ## About
 
-I am a **PhD student in Applied Mathematics** supervised by  
-[Emmanuel Soubies](https://www.irit.fr/~Emmanuel.Soubies/) and  
-[Luca Calatroni](https://sites.google.com/view/lucacalatroni/home).  
-I am a member of the [Signal & Communications team](https://www.irit.fr/departement/signaux-images/sc/) at the [IRIT Laboratory](https://www.irit.fr/) in Toulouse, France.
+<p>
+I am a <strong>PhD student in Applied Mathematics</strong> supervised by
+<a href="https://www.irit.fr/~Emmanuel.Soubies/">Emmanuel Soubies</a>
+and
+<a href="https://sites.google.com/view/lucacalatroni/home">Luca Calatroni</a>.
+</p>
 
-Before starting my PhD, I obtained a **European Master's Degree in Applied Mathematics** from **FST Limoges**, where I specialized in numerical optimization, statistical learning, reinforcement learning, large-scale optimization, and stochastic optimization.
+<p>
+I am a member of the <a href="https://www.irit.fr/departement/signaux-images/sc/">Signal & Communications team</a> at the <a href="https://www.irit.fr/">IRIT Laboratory</a> in Toulouse, France.
+</p>
 
----
+<p>
+Before starting my PhD, I obtained a <strong>European Master's Degree in Applied Mathematics</strong> from <strong>FST Limoges</strong>, where I specialized in numerical optimization, statistical learning, reinforcement learning, large-scale optimization, and stochastic optimization.
+</p>
+
+</div>
+
+<img 
+  width="260"
+  style="border-radius: 12px;"
+  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+/>
+
+</div>
 
 ## Research
 
