@@ -48,7 +48,7 @@ My research focuses on <strong>sparse optimization methods</strong> for machine 
 
 <p>
 This work is conducted within the project 
-<strong><a href="https://www.irit.fr/~Emmanuel.Soubies/Projects/EROSION.html">EROSION (Exact RelaxatiOns for Sparse and low-rank optImizatiON)</a></strong>, where I develop new <strong>exact continuous relaxations</strong> for sparse optimization problems. These approaches aim to bridge the gap between combinatorial formulations and tractable continuous models while preserving sparsity-inducing properties.
+<strong><a href="https://www.irit.fr/~Emmanuel.Soubies/Projects/EROSION.html">EROSION (Exact RelaxatiOns for Sparse and low-rank optImizatiON)</a></strong>, where I develop new <strong>exact continuous relaxations</strong> of ℓ₀-regularized problems. These relaxations are designed to preserve the <strong>global minimizers</strong> of the original combinatorial formulation while improving the geometry of the optimization landscape.
 </p>
 
 <p>
