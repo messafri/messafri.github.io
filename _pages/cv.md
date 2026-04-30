@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 You can also download my CV as a PDF here:  
-[Download CV (PDF)](/files/CV_Mhamed-1.pdf)
+[Download CV (PDF)](/files/CV_Mhamed_2026.pdf)
 
 Education
 ======
